@@ -1,6 +1,8 @@
-# 成语日课 Android 版
+# IdiomBloom — Android 成语学习 App
 
-原生 Android 成语记忆 App，使用 Kotlin 与 Jetpack Compose 开发。学习数据保存在设备本地，成语词库支持离线内置与 HTTPS 自动更新。
+IdiomBloom 是一款使用 Kotlin 和 Jetpack Compose 开发的 Android 成语学习应用，支持间隔重复、遗忘曲线复习、易错成语、中文语音朗读、离线词库及在线更新。
+
+IdiomBloom is an open-source Chinese idiom learning app for Android, featuring spaced repetition, offline dictionaries, pronunciation, learning statistics, and vocabulary updates.
 
 ## 系统要求
 
