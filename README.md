@@ -114,3 +114,30 @@ IDIOM_DICTIONARY_MANIFEST_URL=https://abrikk.github.io/idiom-dictionary/manifest
 ## 数据说明
 
 内置及在线 v4 词库共含 5003 条，其中4950条来自常用度筛选、1000条标记为高频常用，168条标记为易错成语。易错专题包括易读错、易写错、望文生义、褒贬误用、对象误用、谦敬误用和近义辨析。学习状态使用 Android `SharedPreferences` 保存；在线词库写入 App 私有目录。数据来源及许可见 `THIRD_PARTY_NOTICES.md`。正式商用前仍建议逐条复核内容和例句授权。
+
+## 应用预览
+
+<p align="center">
+  <img src="docs/images/home.png" width="230" alt="IdiomBloom 首页" />
+  <img src="docs/images/study-front.png" width="230" alt="学习卡片" />
+  <img src="docs/images/study-details.png" width="230" alt="释义与例句" />
+</p>
+
+<p align="center">
+  <img src="docs/images/dashboard.png" width="230" alt="学习仪表盘" />
+  <img src="docs/images/settings.png" width="230" alt="词库与学习设置" />
+</p>
+
+## 操作演示
+
+<p align="center">
+  <img src="docs/images/study-demo.gif" width="280" alt="IdiomBloom 学习流程演示" />
+</p>
+
+## 特色亮点
+
+- 基于 **Kotlin + Jetpack Compose** 开发
+- 支持 **每日新学计划** 与 **基于遗忘曲线的复习安排**
+- 支持 **语音朗读、收藏、搜索、学习统计**
+- 内置 **5000+ 成语词库**，支持 **在线增量更新**
+
